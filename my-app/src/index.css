@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.x-label, .y-label {
+  font-size: 12px;
+  letter-spacing: 0.5px;
+  color: #636566;
+}
